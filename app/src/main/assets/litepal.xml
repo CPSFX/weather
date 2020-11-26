@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value="weather_reporter" />
+    <version value="2" />
+    <list>
+        <mapping class="com.cp.weather.db.Province" />
+        <mapping class="com.cp.weather.db.City" />
+        <mapping class="com.cp.weather.db.County" />
+        <mapping class="com.cp.weather.db.ConcernedCity" />
+    </list>
+</litepal>
